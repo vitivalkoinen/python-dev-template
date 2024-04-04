@@ -66,6 +66,13 @@ Python で勉強したり、API 開発したりする際に使用できるテン
 ## 開発環境構築
 
 <!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
+
+### Docker Engine のインストール
+
+[Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
+
+### poetry プロジェクトの初期化
+
 ```shell
 poetry init
 ```
